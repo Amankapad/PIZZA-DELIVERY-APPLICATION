@@ -1,0 +1,25 @@
+/* Define styles for different order statuses */
+.order-received {
+    background-color: #4CAF50; /* Green background for "Order Received" */
+    color: white;
+}
+
+.in-the-kitchen {
+    background-color: #FFA500; /* Orange background for "In the Kitchen" */
+    color: white;
+}
+
+.sent-to-delivery {
+    background-color: #3498DB; /* Blue background for "Sent to Delivery" */
+    color: white;
+}
+
+/* Define a shared style for the user dashboard */
+.user-dashboard {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+/* Add more CSS styles as needed for your layout */
